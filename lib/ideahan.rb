@@ -1,0 +1,2 @@
+module Ideahan
+end

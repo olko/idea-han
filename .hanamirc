@@ -1,0 +1,3 @@
+project=ideahan
+test=minitest
+template=erb
